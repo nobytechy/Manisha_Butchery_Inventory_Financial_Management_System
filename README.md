@@ -1,12 +1,12 @@
 Manisha Butchery - Inventory & Financial Management System
-<div align="center">
+
 https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
 https://img.shields.io/badge/Platform-Android%2520%257C%2520iOS-brightgreen?style=for-the-badge
 https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge
 
 <h3>A comprehensive multi-shop inventory, stock transfer, and financial reporting system built with Flutter</h3>
-</div>
+
 
 📱 Overview
 Manisha Butchery is a production-grade mobile application designed for butchery/meat processing businesses operating across multiple shop locations. The system provides real-time inventory tracking, inter-shop stock transfers, daily closing management, and comprehensive financial reporting.
