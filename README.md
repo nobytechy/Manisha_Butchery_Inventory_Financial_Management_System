@@ -9,9 +9,7 @@
   [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
   
   <h3>A comprehensive multi-shop inventory, stock transfer, and financial reporting system built with Flutter</h3>
-  
-  <img src="https://via.placeholder.com/800x400.png?text=Manisha+Butchery+App+Screenshot" alt="App Screenshot" width="600"/>
-  
+
 </div>
 
 ---
