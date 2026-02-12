@@ -1,0 +1,2 @@
+# Manisha_Butchery_Inventory_Financial_Management_System
+Manisha Butchery - A comprehensive multi-shop inventory and financial management system built with Flutter. Track stock across multiple locations, manage shop-to-shop transfers, perform daily closings, and generate professional trading account & P&L reports with key business metrics. Features clean architecture, local persistence, and responsive UI/UX.
