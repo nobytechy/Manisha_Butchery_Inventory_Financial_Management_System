@@ -109,32 +109,6 @@ Built with Flutter and SharedPreferences for local storage, this application dem
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://via.placeholder.com/300x600.png?text=Dashboard" alt="Dashboard" width="200"/></td>
-      <td><img src="https://via.placeholder.com/300x600.png?text=Inventory" alt="Inventory" width="200"/></td>
-      <td><img src="https://via.placeholder.com/300x600.png?text=Transfers" alt="Transfers" width="200"/></td>
-    </tr>
-    <tr>
-      <td align="center">Dashboard</td>
-      <td align="center">Inventory Management</td>
-      <td align="center">Stock Transfers</td>
-    </tr>
-    <tr>
-      <td><img src="https://via.placeholder.com/300x600.png?text=Reports" alt="Reports" width="200"/></td>
-      <td><img src="https://via.placeholder.com/300x600.png?text=Financials" alt="Financials" width="200"/></td>
-      <td><img src="https://via.placeholder.com/300x600.png?text=Products" alt="Products" width="200"/></td>
-    </tr>
-    <tr>
-      <td align="center">Stock Reports</td>
-      <td align="center">Financial Reports</td>
-      <td align="center">Product Management</td>
-    </tr>
-  </table>
-</div>
 ## 🚀 Getting Started
 
 ### Prerequisites
